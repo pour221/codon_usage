@@ -16,7 +16,7 @@ Then run all cells.
 
 ## Repository Structure
 ```
-codon-usage-analysis
+codon-usage
 │
 ├── README.md
 │
