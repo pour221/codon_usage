@@ -1,5 +1,5 @@
 # Codon Usage Analysis
-Exploratory analysis of codon usage bias across microbial genomes using codon frequencies, RSCU and ENC metrics combined genome similarity analysis.
+Exploratory analysis of codon usage bias across microbial genomes using codon frequencies, RSCU and ENC metrics combined with genome similarity analysis.
 ## Quick start
 Prepare a working directory and a directory containing genome assemblies in FASTA format. Then use preprocessing.sh:
 ``` commandline
@@ -35,7 +35,7 @@ codon-usage
 ```
 
 ## Overview
-This project provides a ready-to-use notebook to explores codon usage patterns across microbial genomes and investigates whether codon bias reflects genome similarity or group structure.
+This project provides a ready-to-use notebook to explore codon usage patterns across microbial genomes and investigates whether codon bias reflects genome similarity or group structure.
 
 The workflow includes:
 
@@ -89,7 +89,7 @@ The notebook performs:
 
 Clone this repository
 ```commandline
-$ git clone clone https://github.com/pour221/codon-usage-analysis.git
+$ git clone clone https://github.com/pour221/codon-usage.git
 ```
 
 > It is recommended to use virtual environment (conda or venv)
@@ -170,7 +170,7 @@ and run all cells.
 ## Example Results
 - Assembly QC:
 ![qc](plots/qc.png)
-- Codon usage frequency pre group
+- Codon usage frequency per group
 ![codon](plots/codons.png)
 - Codon usage PCA and t-SNE
 ![codon_usage](plots/codon_usage_frequency_PCA_tSNE.png)
