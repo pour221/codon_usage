@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/python-3.10+-blue) ![Bioinformatics](https://img.shields.io/badge/domain-bioinformatics-green)
 # Codon Usage Analysis
 Exploratory analysis of codon usage bias across microbial genomes using codon frequencies, RSCU and ENC metrics combined with genome similarity analysis.
 ## Quick start
