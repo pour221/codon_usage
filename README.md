@@ -90,7 +90,7 @@ The notebook performs:
 
 Clone this repository
 ```commandline
-$ git clone clone https://github.com/pour221/codon-usage.git
+$ git clone https://github.com/pour221/codon-usage.git
 ```
 
 > It is recommended to use virtual environment (conda or venv)
@@ -131,7 +131,7 @@ Run the preprocessing pipeline (or do this step by yourself):
 ```commandline
 $ bash scripts/preprocessing.sh codon_usage/working_sample
 ```
-That will generate several directories and plenty files. At the end the working the directory will be:
+That will generate several directories and plenty files. At the end the working directory will be:
 
 ```
 codon_usage
