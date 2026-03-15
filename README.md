@@ -180,4 +180,5 @@ and run all cells.
 - RSCU heatmap
 ![RSCU](plots/RSCU_heatmap.png)
 
-All genomes used for testing were obtained from NCBI GenBank and are publicly available.
+## Test data
+All tests were performed on a random subset of genome assemblies from *Escherichia coli*, *Salmonella enterica*, *Yersinia pestis*, and *Yersinia pseudotuberculosis*. All genomes used for testing were obtained from NCBI GenBank and are publicly available.
